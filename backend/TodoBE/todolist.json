@@ -1,0 +1,80 @@
+[
+    {
+        "Title": "Todo 1",
+        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut",
+        "DueDate": "2024-05-12T21:38:11.4284629+00:00",
+        "List": "Personal"
+    },
+    {
+        "Title": "Todo 2",
+        "Description": "Sed auctor nunc nec nisi ultrices, in molestie nibh mattis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "DueDate": "2024-05-09T21:38:11.4296875+00:00",
+        "List": ""
+    },
+    {
+        "Title": "Todo 3",
+        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti. Nullam nec nibh nibh. Nullam quis nisl nec nunc congue mollis.",
+        "DueDate": "2024-05-10T21:38:11.4297119+00:00",
+        "List": ""
+    },
+    {
+        "Title": "Todo 4",
+        "Description": "Suspendisse potenti. Nullam nec nibh nibh. Nullam quis nisl nec nunc congue mollis. Vivamus nec nisi nec nunc mattis molestie. Sed auctor nunc nec nisi ultrices, in molestie nibh mattis.",
+        "DueDate": "2024-05-11T21:38:11.4297175+00:00",
+        "List": ""
+    },
+    {
+        "Title": "Learn C#",
+        "Description": "Learn C# and .NET",
+        "DueDate": "2024-05-12T21:38:11.4297212+00:00",
+        "List": "Personal"
+    },
+    {
+        "Title": "Build a Web API",
+        "Description": "Build a Web API using ASP.NET Core",
+        "DueDate": "2024-05-08T21:38:11.4297262+00:00",
+        "List": "Work"
+    },
+    {
+        "Title": "Build a Single Page Application",
+        "Description": "Build a Single Page Application using Angular or React",
+        "DueDate": "2024-05-06T21:38:11.4297644+00:00",
+        "List": "Work"
+    },
+    {
+        "Title": "Setup CI/CD",
+        "Description": "Setup CI/CD using Azure DevOps",
+        "DueDate": "2024-05-07T21:38:11.4297714+00:00",
+        "List": "Work"
+    },
+    {
+        "Title": "Write Unit Tests",
+        "Description": "Write unit tests for the API and SPA",
+        "DueDate": "2024-05-15T21:38:11.4297744+00:00",
+        "List": "Work"
+    },
+    {
+        "Title": "Code Review",
+        "Description": "Perform code review for the API and SPA",
+        "DueDate": "2024-05-11T21:38:11.4297782+00:00",
+        "List": "Work"
+    },
+    {
+        "Title": "Prepare for Interview",
+        "Description": "Prepare for technical interviews",
+        "DueDate": "2024-05-13T21:38:11.4297814+00:00",
+        "List": "Personal"
+    },
+    {
+        "Title": "Take a Break",
+        "Description": "Take a break and enjoy the weekend",
+        "DueDate": "2024-05-15T21:38:11.4297847+00:00",
+        "List": "Personal"
+    },
+    {
+        "Title": "Complete Assignment 4",
+        "Description": "Finish the descriptions for hte final assignment before the class project",
+        "DueDate": "2024-05-07T21:39:06.3653289+00:00",
+        "List": "Class"
+    }
+]
